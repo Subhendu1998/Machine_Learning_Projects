@@ -1,6 +1,6 @@
 # Machine_Learning_Projects
 This is a ML projects on Salary Prediction of an employee using Linear Regression.
-This is team project.
+This is a team project.
 Data  Collection:  Gathered a comprehensive  dataset  containing  relevant  features  such  as  education  level, years of experience, and job title , alongside corresponding salary information. 
 Data Preprocessing:   Cleaned  and  prepared the  data  by   handling  missing  values,  encoding  categorical variables, and scaling numerical features to ensure uniformity across the dataset. 
 Feature  Selection: Identified   key  features impacting   salary  through  exploratory  data  analysis  and  selected a subset of influential variables for model training. 
